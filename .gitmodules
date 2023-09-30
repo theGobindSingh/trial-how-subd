@@ -4,3 +4,6 @@
 [submodule "packages/abhas"]
 	path = packages/abhas
 	url = https://github.com/AbhasC/abhasCPortfolio.git
+[submodule "packages/dev-how"]
+	path = packages/dev-how
+	url = https://github.com/theGobindSingh/how-dev.git
